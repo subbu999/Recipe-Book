@@ -1,0 +1,7 @@
+.btn{
+    box-shadow:none!important
+}
+.dropdown .dropdown-menu .dropdown-item:hover{
+    background: rgb(76, 116, 248);
+    color:white
+}

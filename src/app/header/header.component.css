@@ -1,0 +1,11 @@
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+.dropdown>.dropdown-toggle:active{
+    pointer-events: none;
+}
+
+.dropdown .dropdown-menu .dropdown-item:hover{
+    background: rgb(116, 127, 161);
+    color:white
+}
